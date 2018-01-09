@@ -8,7 +8,7 @@ public class CConverter {
         CConverter.rate = r;
     }
     
-    public static double toDoller(double won){
+    public static double toDollar(double won){
         return won / rate;
     }
 

@@ -10,6 +10,7 @@ public class FriendApp {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("친구를 3명 등록해 주세요");
+        String 
 
         
             // 친구정보 입력받기
