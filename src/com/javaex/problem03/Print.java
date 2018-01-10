@@ -5,7 +5,7 @@ public class Print {
     public void printer(int val){
         System.out.println(val);
     }
-    //메소드 오버로딩 문제(?)
+    
     
     public void printer(boolean val) {
     	System.out.println(val);

@@ -7,7 +7,7 @@ public class Friend {
     private String school;
 
     
-    
+    //필요한 메소드 작성
     public String getName() {
 		return name;
 	}
